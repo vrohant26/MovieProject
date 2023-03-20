@@ -1,5 +1,8 @@
 # MovieProject
 
+Project by "Project Mastery"
+
+
 Basic React MovieApp search using api data
 
 ![image](https://user-images.githubusercontent.com/59355764/226337053-4870b643-a12e-4a3c-b948-2a8fb619e5e6.png)
